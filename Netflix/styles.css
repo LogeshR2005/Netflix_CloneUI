@@ -1,0 +1,92 @@
+
+@font-face{
+    font-family: Light;
+    src: url("Font/NetFlix Sans/Netflix Sans Light.otf") format("opentype");
+
+}
+@font-face{
+    font-family: Medium;
+    src: url("Font/NetFlix Sans/Netflix Sans Medium.otf") format("opentype");
+
+}
+@font-face{
+    font-family: Bold;
+    src: url("Font/NetFlix Sans/Netflix Sans Bold.otf") format("opentype");
+
+}
+h2{
+    font-family: Bold;
+}
+
+*{
+    background-color: black;
+    color:white;
+    font-family: 'Medium';
+}
+
+#logo{
+    
+    display: inline-block;
+    text-align: bottom;
+    margin-left: 10px;
+}
+#search{
+     display:inline-block;
+     margin-right: 150px;
+    
+}
+
+.titlebar{
+      
+      text-align: end;
+      display: inline-block;
+      color:gray;
+      
+
+}
+
+
+.menu{
+    display: inline;
+    text-align: top;
+   align-content: center;
+   align-items: baseline;
+   flex-direction: row;
+ 
+    
+}
+li,ul{
+    display: inline-block;
+    margin-left: 15px;
+    text-align: top;
+    align-items: center;
+    color: gray;
+    font-family: 'Light';
+    font-size: 18px;
+}
+li:hover{
+    color: aliceblue;
+    cursor: pointer;
+    font-family: 'Medium';
+}
+
+
+.box,.box1,.box2,.box3{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 299px;
+    text-align: center;
+    margin-left: 20px;
+
+}
+.box4,.box5,.box6,.box7,.box8,.box9,.box10,.box11{
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 299px;
+    text-align: center;
+    margin-left: 20px;
+    
+}
+
