@@ -6,9 +6,8 @@
 3. [Technologies Used](#technologies-used)
 4. [Setup](#setup)
 5. [Usage](#usage)
-6. [Project Structure](#project-structure)
-7. [Screenshots](#screenshots)
-8. [License](#license)
+6. [Screenshots](#screenshots)
+7. [License](#license)
 
 ## Introduction
 This project is a simple clone of the Netflix homepage created using HTML and CSS. It is intended for educational purposes, to demonstrate the use of HTML for structuring content and CSS for styling.
@@ -37,13 +36,7 @@ This project is a simple clone of the Netflix homepage created using HTML and CS
 ## Usage
 Open the `index.html` file in a web browser to view the Netflix clone homepage. You can modify the HTML and CSS files to customize the appearance or add new features.
 
-## Project Structure
-```
 
-
-- **css/styles.css**: Contains all the CSS styles for the project.
-- **images/**: Contains images used in the project (e.g., banner, logo, movie thumbnails).
-- **index.html**: The main HTML file for the project.
 
 ## Screenshots
 
