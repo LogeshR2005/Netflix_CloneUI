@@ -47,7 +47,8 @@ Open the `index.html` file in a web browser to view the Netflix clone homepage. 
 
 ## Screenshots
 
-![Netflix_CloneUIByLogeshR2005](https://github.com/LogeshR2005/Netflix_CloneUI/assets/142524635/410612d4-0502-4791-a471-acaa9fb07236)
+![Netflix_CloneUIByLogeshR2005](https://github.com/LogeshR2005/Netflix_CloneUI/assets/142524635/b8933ad5-5e93-4481-a8a9-35a50b0bfdf9)
+
 
 
 
